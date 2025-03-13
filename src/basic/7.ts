@@ -4,7 +4,7 @@ type TypeUser = {
   accounts: string[];
   status: string;
   details?: {
-    createAt: Date; // навести курсор на ключ createAt та буде підказка
+    createAt: Date; // навести курсор на ключ createAt у page1  та буде підказка
     updateAt: Date; 
   }
   };
